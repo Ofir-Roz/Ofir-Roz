@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 My name is Ofir, and I'm a CS student at The Open University of Israel.                                 
-Solving problems with code is my mental workout 😄                                                 
+Solving problems with code is my mental workout                                                  
 
      if(Machine.isCoolerThen(visitor.getName()))
         visitor.getOut();
